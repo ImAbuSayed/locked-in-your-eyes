@@ -15,7 +15,7 @@
 | **Written On** | June 02, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/locked-in-your-eyes/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get a Licensing Quote for Locked In Your Eyes](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/locked-in-your-eyes/) |
+| **Get License** | [Request Licensing for Locked In Your Eyes](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/locked-in-your-eyes/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> I am tracing the shadows falling softly on your face
+> The midnight is quiet, but my heart is set to race
+> There is a fire in the silence when you pull me close
+> You are the only kind of magic that I want the most
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
