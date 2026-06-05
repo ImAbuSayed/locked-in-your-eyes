@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Locked In Your Eyes
+
+This log tracks the cryptographic history and versioning for the song **Locked In Your Eyes** (locked-in-your-eyes).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-05T19:47:56.316690 | `v1` | `6ec1614697b71818ffc55fe8e70542abd6707f51f9213ae08d1cddb794e3787d` | `685b6503deaec7eb72eb5fb3beb3b3b0ef0b46486d59dcf3bb6560220569212e` | `2026-06-05_locked-in-your-eyes-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
